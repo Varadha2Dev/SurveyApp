@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Varadharaj\\source\\repos\\SurveyCreationAPI\\SurveyCreationAPI.csproj": {}
+    "C:\\Users\\Varadharaj\\Source\\Repos\\SurveyAppGit\\SurveyCreationAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Varadharaj\\source\\repos\\SurveyCreationAPI\\SurveyCreationAPI.csproj": {
+    "C:\\Users\\Varadharaj\\Source\\Repos\\SurveyAppGit\\SurveyCreationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Varadharaj\\source\\repos\\SurveyCreationAPI\\SurveyCreationAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Varadharaj\\Source\\Repos\\SurveyAppGit\\SurveyCreationAPI.csproj",
         "projectName": "SurveyCreationAPI",
-        "projectPath": "C:\\Users\\Varadharaj\\source\\repos\\SurveyCreationAPI\\SurveyCreationAPI.csproj",
+        "projectPath": "C:\\Users\\Varadharaj\\Source\\Repos\\SurveyAppGit\\SurveyCreationAPI.csproj",
         "packagesPath": "C:\\Users\\Varadharaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Varadharaj\\source\\repos\\SurveyCreationAPI\\obj\\",
+        "outputPath": "C:\\Users\\Varadharaj\\Source\\Repos\\SurveyAppGit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
