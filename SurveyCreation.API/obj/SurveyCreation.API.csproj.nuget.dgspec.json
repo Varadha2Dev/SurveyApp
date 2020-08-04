@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.API\\SurveyCreation.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.API\\SurveyCreation.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.API\\SurveyCreation.API.csproj",
+        "projectName": "SurveyCreation.API",
+        "projectPath": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.API\\SurveyCreation.API.csproj",
+        "packagesPath": "C:\\Users\\andhanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andhanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://microsoftit.pkgs.visualstudio.com/DefaultCollection/_packaging/MicrosoftIT/nuget/v3/index.json": {},
+          "https://microsoftit.pkgs.visualstudio.com/_packaging/Finance/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.DataAccess\\SurveyCreation.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.DataAccess\\SurveyCreation.DataAccess.csproj"
+              },
+              "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.Models\\SurveyCreation.Models.csproj": {
+                "projectPath": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.Models\\SurveyCreation.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.DataAccess\\SurveyCreation.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.DataAccess\\SurveyCreation.DataAccess.csproj",
+        "projectName": "SurveyCreation.DataAccess",
+        "projectPath": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.DataAccess\\SurveyCreation.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\andhanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andhanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://microsoftit.pkgs.visualstudio.com/DefaultCollection/_packaging/MicrosoftIT/nuget/v3/index.json": {},
+          "https://microsoftit.pkgs.visualstudio.com/_packaging/Finance/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.Models\\SurveyCreation.Models.csproj": {
+                "projectPath": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.Models\\SurveyCreation.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.Models\\SurveyCreation.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.Models\\SurveyCreation.Models.csproj",
+        "projectName": "SurveyCreation.Models",
+        "projectPath": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.Models\\SurveyCreation.Models.csproj",
+        "packagesPath": "C:\\Users\\andhanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andhanda\\Documents\\GitHub\\SurveyApp\\SurveyCreation.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andhanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://microsoftit.pkgs.visualstudio.com/DefaultCollection/_packaging/MicrosoftIT/nuget/v3/index.json": {},
+          "https://microsoftit.pkgs.visualstudio.com/_packaging/Finance/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

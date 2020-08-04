@@ -1,0 +1,5 @@
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.API\obj\Debug\netcoreapp2.2\SurveyCreation.API.csprojAssemblyReference.cache
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.API\obj\Debug\netcoreapp2.2\SurveyCreation.API.RazorAssemblyInfo.cache
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.API\obj\Debug\netcoreapp2.2\SurveyCreation.API.RazorAssemblyInfo.cs
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.API\obj\Debug\netcoreapp2.2\SurveyCreation.API.AssemblyInfoInputs.cache
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.API\obj\Debug\netcoreapp2.2\SurveyCreation.API.AssemblyInfo.cs

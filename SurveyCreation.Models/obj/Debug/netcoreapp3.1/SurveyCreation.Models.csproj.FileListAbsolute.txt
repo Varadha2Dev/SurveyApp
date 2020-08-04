@@ -1,0 +1,16 @@
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.Models\bin\Debug\netcoreapp3.1\SurveyCreation.Models.deps.json
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.Models\bin\Debug\netcoreapp3.1\SurveyCreation.Models.dll
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.Models\bin\Debug\netcoreapp3.1\SurveyCreation.Models.pdb
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.Models\obj\Debug\netcoreapp3.1\SurveyCreation.Models.AssemblyInfoInputs.cache
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.Models\obj\Debug\netcoreapp3.1\SurveyCreation.Models.AssemblyInfo.cs
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.Models\obj\Debug\netcoreapp3.1\SurveyCreation.Models.dll
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.Models\obj\Debug\netcoreapp3.1\SurveyCreation.Models.pdb
+C:\Users\andhanda\Documents\GitHub\SurveyCreation.Models\obj\Debug\netcoreapp3.1\SurveyCreation.Models.csprojAssemblyReference.cache
+C:\Users\andhanda\Documents\GitHub\SurveyApp\SurveyCreation.Models\bin\Debug\netcoreapp3.1\SurveyCreation.Models.deps.json
+C:\Users\andhanda\Documents\GitHub\SurveyApp\SurveyCreation.Models\bin\Debug\netcoreapp3.1\SurveyCreation.Models.dll
+C:\Users\andhanda\Documents\GitHub\SurveyApp\SurveyCreation.Models\bin\Debug\netcoreapp3.1\SurveyCreation.Models.pdb
+C:\Users\andhanda\Documents\GitHub\SurveyApp\SurveyCreation.Models\obj\Debug\netcoreapp3.1\SurveyCreation.Models.csprojAssemblyReference.cache
+C:\Users\andhanda\Documents\GitHub\SurveyApp\SurveyCreation.Models\obj\Debug\netcoreapp3.1\SurveyCreation.Models.AssemblyInfoInputs.cache
+C:\Users\andhanda\Documents\GitHub\SurveyApp\SurveyCreation.Models\obj\Debug\netcoreapp3.1\SurveyCreation.Models.AssemblyInfo.cs
+C:\Users\andhanda\Documents\GitHub\SurveyApp\SurveyCreation.Models\obj\Debug\netcoreapp3.1\SurveyCreation.Models.dll
+C:\Users\andhanda\Documents\GitHub\SurveyApp\SurveyCreation.Models\obj\Debug\netcoreapp3.1\SurveyCreation.Models.pdb
